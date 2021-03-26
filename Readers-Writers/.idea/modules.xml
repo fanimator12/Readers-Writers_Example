@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BookSigning/BookSigning.iml" filepath="$PROJECT_DIR$/BookSigning/BookSigning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Readers-Writers.iml" filepath="$PROJECT_DIR$/Readers-Writers.iml" />
+    </modules>
+  </component>
+</project>
